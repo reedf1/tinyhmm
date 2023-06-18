@@ -20,12 +20,12 @@ Overview
     :alt: Documentation Status
 
 .. |github-actions| image:: https://github.com/reedf1/tinyhmm/actions/workflows/github-actions.yml/badge.svg
-    :alt: GitHub Actions Build Status
-    :target: https://github.com/reedf1/tinyhmm/actions
+..    :alt: GitHub Actions Build Status
+..    :target: https://github.com/reedf1/tinyhmm/actions
 
 .. |codecov| image:: https://codecov.io/gh/reedf1/tinyhmm/branch/main/graphs/badge.svg?branch=main
-    :alt: Coverage Status
-    :target: https://app.codecov.io/github/reedf1/tinyhmm
+..    :alt: Coverage Status
+..    :target: https://app.codecov.io/github/reedf1/tinyhmm
 
 .. |version| image:: https://img.shields.io/pypi/v/tinyhmm.svg
     :alt: PyPI Package latest release

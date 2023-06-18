@@ -1,4 +1,3 @@
-
 from tinyhmm.cli import main
 
 
